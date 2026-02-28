@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am frontend developer<br>my skill is html5 css3 javascript bootstrap <br>I am now studing in Bs software engineering at riphah international univeresty
+Frontend Developer specializing in HTML5, CSS3, JavaScript, and Bootstrap, with hands-on experience in building responsive and interactive web interfaces.
+
+Currently pursuing a BS in Software Engineering at Riphah International University, with a strong focus on writing clean code, improving performance, and building production-ready applications.
+
+Always learning. Always building.
 
 
 # 💻 Tech Stack:
